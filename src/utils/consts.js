@@ -1,0 +1,3 @@
+export const INPUT_PRICE = 'INPUT_PRICE';
+export const INPUT_INITIAL = 'INPUT_INITIAL';
+export const INPUT_MONTHS = 'INPUT_MONTHS';
